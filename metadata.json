@@ -1,5 +1,5 @@
 {
-  "uuid": "EasyPeek@Markerto",
+  "uuid": "easy-peek@Markerto",
   "name": "EasyPeek",
   "description": "Click on the desktop to hide or reveal all windows.",
   "shell-version": ["45", "46", "47", "48"],
