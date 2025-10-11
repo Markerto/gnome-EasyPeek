@@ -1,8 +1,8 @@
 {
   "uuid": "easy-peek@Markerto",
   "name": "EasyPeek",
-  "description": "Click on the desktop to hide or reveal all windows.",
-  "shell-version": ["45", "46", "47", "48"],
-  "version": 1,
-  "license": "GPL-3.0-or-later"
+  "description": "A lightweight extension that lets you take a peek at your desktop. Click anywhere on the desktop to minimize or reveal all windows.",
+  "shell-version": ["48"],
+  "version": 2,
+  "url": "https://github.com/Markerto/gnome-EasyPeek/"
 }
