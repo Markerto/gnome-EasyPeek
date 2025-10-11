@@ -1,5 +1,9 @@
 # gnome-EasyPeek
-A lightweight GNOME extension that shows you your desktop by clicking anywhere on the desktop. Clicking on the desktop minimizes every app.
+A lightweight GNOME extension that lets you take a peek at your desktop. Click anywhere on the desktop to minimize or reveal all windows.
 
-Tested on GNOME 48. Should work on 45, 46, 47, 48. Works fine with other similar extensions like Show Desktop Button.
-Currently doesn't work with the Desktop Icons extension.
+# Attention
+Particularly tested on GNOME 48. Should work on 45, 46, 47, 48.
+
+# Compatibility with other extensions
++ Works fine with similar extensions like Show Desktop Button.
+- Does not work with Desktop Icons
