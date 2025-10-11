@@ -7,3 +7,6 @@ Particularly tested on GNOME 48.
 # Compatibility with other extensions
 + Works fine with similar extensions like Show Desktop Button.
 - Does not work with Desktop Icons
+
+# Install
+https://extensions.gnome.org/extension/8666/easypeek/
