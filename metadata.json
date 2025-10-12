@@ -3,6 +3,6 @@
   "name": "EasyPeek",
   "description": "A lightweight extension that lets you take a peek at your desktop. Click anywhere on the desktop to minimize or reveal all windows.",
   "shell-version": ["48"],
-  "version": 2,
+  "version": 2.1,
   "url": "https://github.com/Markerto/gnome-EasyPeek/"
 }
