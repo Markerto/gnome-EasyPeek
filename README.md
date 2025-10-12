@@ -10,7 +10,7 @@ Works with similar extensions like Show Desktop Button, but with some possible l
 
 Turning off the EasyPeek extension completely works seamlessly and modal window will still reveal itself without any confusion.
   
-- Does not work with Desktop Icons.
++ Does not work with Desktop Icons.
 
 # Install
 https://extensions.gnome.org/extension/8666/easypeek/
