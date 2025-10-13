@@ -6,9 +6,11 @@ Particularly tested on GNOME 48.
 
 # Compatibility with other extensions
 Works with similar extensions like Show Desktop Button, but with some possible limits:
-- Since you can't minimize modal windows in GNOME, this extension hides the modal windows through compositor. The only way to bring back the modal window is to click on the desktop again. If windows are minimized and modal windows are hidden through this extension, other similar extensions won't bring back the modal windows unless it also contains the same feature.
+- Since you can't minimize modal windows in GNOME, this extension hides the modal windows through compositor. The only way to bring back the modal window is to click on the desktop again. If windows are minimized and modal windows are hidden through this extension, other similar extensions won't bring back the modal windows unless they also contain the same feature.
 
-Turning off the EasyPeek extension completely works seamlessly and modal window will still reveal itself without any confusion.
+Turning off the EasyPeek extension works seamlessly and modal windows will still reveal themselves without any problem.
+
+-----
   
 + Does not work with Desktop Icons.
 
