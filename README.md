@@ -2,7 +2,7 @@
 A lightweight GNOME extension that lets you take a peek at your desktop. Click anywhere on the desktop to minimize or reveal all windows.
 
 # GNOME Compatibility
-Particularly tested on GNOME 48.
+Tested & works on GNOME 48 and 49.
 
 # Compatibility with other extensions
 Works with similar extensions like Show Desktop Button, but with some possible limits:
