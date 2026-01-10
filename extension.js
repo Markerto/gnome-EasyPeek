@@ -1,4 +1,4 @@
-//for gnome 48
+//gnome 48+49 code
 import Clutter from 'gi://Clutter';
 import Meta from 'gi://Meta';
 import Shell from 'gi://Shell';
