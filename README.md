@@ -1,5 +1,16 @@
-# gnome-EasyPeek
+<div align="center">
+
+# EasyPeek
+
+<img src="https://i.ibb.co/xqd6FW2B/icon-8666-ts-BWUQX.png" alt="EasyPeek Logo" width="200">
+
+</div>
+
+<div align="center">
+
 A lightweight GNOME extension that lets you take a peek at your desktop. Click anywhere on the desktop to minimize or reveal all windows.
+
+
 
 # GNOME Compatibility
 Tested & works on GNOME 48 and 49.
@@ -16,3 +27,5 @@ Turning off the EasyPeek extension works seamlessly and modal windows will still
 
 # Install
 https://extensions.gnome.org/extension/8666/easypeek/
+
+</div>
