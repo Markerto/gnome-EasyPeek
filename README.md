@@ -23,10 +23,7 @@ Turning off the EasyPeek extension works seamlessly and modal windows will still
 
 # Known Problems
 - Third party docks like Cairo-Dock, Plank etc. do get minimized along with the windows. Though, GNOME extensions like Dash To Dock are NOT affected.
-
------
-  
-+ Does not work with Desktop Icons.
+- Does not work with Desktop Icons.
 
 # Install
 https://extensions.gnome.org/extension/8666/easypeek/
