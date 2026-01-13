@@ -21,6 +21,9 @@ Works with similar extensions like Show Desktop Button, but with some possible l
 
 Turning off the EasyPeek extension works seamlessly and modal windows will still reveal themselves without any problem.
 
+# Known Problems
+- Third party docks like Cairo-Dock, Plank etc. do get minimized along with the windows. Though, GNOME extensions like Dash To Dock are NOT affected.
+
 -----
   
 + Does not work with Desktop Icons.
