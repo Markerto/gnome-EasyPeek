@@ -13,7 +13,7 @@ A lightweight GNOME extension that lets you take a peek at your desktop. Click a
 
 
 # GNOME Compatibility
-Tested & works on GNOME 48 and 49.
+Tested & works on GNOME 48, 49, and 50.
 
 # Compatibility with other extensions
 Works with similar extensions like Show Desktop Button, but with some possible limits:
